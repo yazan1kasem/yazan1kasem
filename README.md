@@ -1,14 +1,28 @@
 # 🚀 Hi, ich bin Yazan! 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yazan1kasem&label=Profil+Views&color=0e75b6&style=flat" alt="yazan1kasem" />
+</p>
 
+### 👨‍💻 Full Stack Developer & IT-Infrastruktur Spezialist
+Ich schlage die Brücke zwischen moderner Softwareentwicklung und professioneller Cloud-Infrastruktur. Von der ersten Codezeile bis zum Deployment in der Azure-Cloud.
 ## 🛠️ Mein Tech-Stack
 
-| Bereich | Tools & Sprachen |
+### 🌐 Software Development
+| Bereich | Stack |
 | :--- | :--- |
-| **Sprachen** | `Python`, `JavaScript`, `Java`, `C++` |
-| **Frontend** | `React`, `Vue.js`, `TailwindCSS`, `HTML5/CSS3` |
-| **Backend** | `Node.js`, `Django`, `PostgreSQL` |
-| **Tools** | `Git`, `Docker`, `Linux`, `VS Code` |
+| **Sprachen** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **AI & Bio** | `Scikit-learn`, `NLP (Llama2)`, `Bioinformatics Toolbox` |
+
+### ☁️ Cloud & Modern Workplace
+| Bereich | Expertise |
+| :--- | :--- |
+| **Azure Cloud** | ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) `Entra ID (AD)`, `Intune (Endpoint Manager)`, `Virtual Machines` |
+| **Power Platform** | ![PowerApps](https://img.shields.io/badge/-Power_Apps-742774?style=flat-square&logo=power-apps&logoColor=white) `Power Automate`, `Power BI` |
+| **Networking** | `Netzwerke einrichten`, `DNS/DHCP`, `VPN`, `Firewall Management` |
+| **Office 365** | `Exchange Online`, `SharePoint`, `Teams Administration` |
 
 ## 🔭 Aktuelle Missionen
 
