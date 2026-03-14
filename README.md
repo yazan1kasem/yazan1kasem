@@ -1,8 +1,4 @@
-# 🚀 Hi, ich bin Yazan! 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yazan1kasem&label=Profil+Views&color=0e75b6&style=flat" alt="yazan1kasem" />
-</p>
+# 🚀 Hi, ich bin Yazan! <img src="https://komarev.com/ghpvc/?username=yazan1kasem&label=Profil+Views&color=0e75b6&style=flat-square" align="right" alt="Profil Views" />
 
 ### 👨‍💻 Full Stack Developer & IT-Infrastruktur Spezialist
 Ich schlage die Brücke zwischen moderner Softwareentwicklung und professioneller Cloud-Infrastruktur. Von der ersten Codezeile bis zum Deployment in der Azure-Cloud.
