@@ -26,6 +26,6 @@
 
 ---
 
-- **Portfolio:** ![yazan.at](https://yazan.at)
+- **Portfolio:** [yazan.at](https://yazan.at)
 
 > "First, solve the problem. Then, write the code." – John Johnson
