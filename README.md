@@ -37,9 +37,15 @@ Professionelle Softwareentwicklung kombiniert mit tiefgreifendem System-Engineer
 
 ## Performance & Analytics
 
+<h3 align="center">My GitHub Journey</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazan1kasem&show_icons=true&theme=corporate&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan1kasem&layout=compact&theme=corporate&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yazan1kasem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=9ece6a&icon_color=e0af68&bg_color=1a1b26" alt="Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan1kasem&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="Langs" height="150px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazan1kasem&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7" alt="Streak" />
 </p>
 
 ---
