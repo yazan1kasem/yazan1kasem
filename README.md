@@ -40,7 +40,7 @@ Professionelle Softwareentwicklung kombiniert mit tiefgreifendem System-Engineer
 <h3 align="center">My GitHub Journey</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazan1kasem&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazan1kasem&theme=dark&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7" alt="Streak" />
 </p>
 
 ---
