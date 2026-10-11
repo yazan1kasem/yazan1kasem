@@ -12,11 +12,6 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Platform+%26+IT+%40+TechTalk;Computer+Science+%40+Hochschule+Campus+Wien;Co-founder+of+yPanda;Java+%C2%B7+C%23+%C2%B7+Python+%C2%B7+Azure" alt="Full-Stack Developer · Platform & IT @ TechTalk · CS student · Co-founder of yPanda" />
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=yazan1kasem&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/yazan1kasem?label=Followers&style=for-the-badge&color=0f766e" alt="GitHub followers" />
-  </p>
-
 </div>
 
 ---
